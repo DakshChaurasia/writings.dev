@@ -1,0 +1,229 @@
+body{
+    background-color: #232830;
+
+}
+
+#writings{
+    color: #FFF;
+    font-family: Poppins;
+    font-size: 30px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: normal;
+    display: inline;
+    float: left;
+    margin-left: 220px;
+    margin-right: 400px;
+    margin-top: 75px;
+}
+#categories{
+    color: #FFF;
+    font-family: Poppins;
+    font-size: 24px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: normal;
+    display: inline;
+    float: right;
+    margin-right: 40px;
+    margin-top: 90px;
+}
+
+#articles{
+    color: #FFF;
+    font-family: Poppins;
+    font-size: 24px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: normal;
+    display: inline;
+    float: right;
+    margin-right: 30px;
+    margin-top: 90px;
+}
+
+#about{
+    color: #FFF;
+    font-family: Poppins;
+    font-size: 24px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: normal;
+    display: inline;
+    float: right;
+    margin-top: 90px;
+    margin-right: 220px;
+}
+
+#logo{
+    width: 194.445px;
+    height: 204.084px;
+    flex-shrink: 0;
+    margin-top: 50px;
+    margin-right: auto;
+    width: 100%;
+}
+
+#mainhead{
+    color: #FF7575;
+    font-family: Recursive;
+    font-size: 71px;
+    font-style: italic;
+    font-weight: 400;
+    line-height: normal;
+    text-align: center;
+}
+
+#desc{
+    color: #FFF;
+    font-family: Poppins;
+    font-size: 29px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: normal;
+    text-align: center;
+}
+
+#grid{
+    margin-left: 220px;
+    margin-top: 20px;
+    width: 24px;
+    height: 24px;
+    flex-shrink: 0;
+}
+
+#list{
+    margin-left: 12px;
+    margin-top: 20px;
+    width: 24px;
+    height: 24px;
+    flex-shrink: 0;
+}
+
+#line{
+    height: 3px;
+    opacity: 0.2;
+    background: #4D4D4D;
+    border:0;
+}
+
+#js{
+    color: #909090;
+    display: inline;
+    margin-left: 40px;
+    font-family: Recursive;
+    font-size: 27px;
+    font-style: italic;
+    font-weight: 400;
+    line-height: normal;
+}
+
+#explain{
+    background: linear-gradient(to right, #909090 , #434c5b);
+    -webkit-text-fill-color: transparent;
+    -webkit-background-clip: text;
+    display: inline;
+    margin-left: 40px;
+    font-family: Recursive;
+    font-size: 27px;
+    font-style: italic;
+    font-weight: 400;
+    line-height: normal;
+
+}
+
+#box{
+    width: 340px;
+    height: 400px;
+    flex-shrink: 0;
+    border-radius: 22px;
+    border: 1px solid #252930;
+    background: #FFF;
+    margin-left: 30px;
+    margin-top: 30px;
+}
+
+.container {
+    display: flex;
+    margin-left: 140px;
+    margin-right: 140px;
+}
+
+#h2{
+    color: #0F1217;
+    font-family: Poppins;
+    font-size: 19px;
+    font-style: normal;
+    font-weight: 600;
+    line-height: normal;
+    margin-top: 25px;
+    margin-left: 20px;
+    margin-right: 20px;
+}
+
+#img{
+    width: 300px;
+    margin-top: 20px;
+    margin-left: 20px;
+}
+
+#txt{
+    color: #0F1217;
+    font-family: Poppins;
+    font-size: 16px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: normal;
+    margin-top: 20px;
+    margin-left: 20px;
+    margin-right: 20px;
+}
+
+#date{
+    display: inline;
+    color: #0F1217;
+    font-family: Poppins;
+    font-size: 16px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: normal;
+    margin-left: 20px;
+    margin-bottom: 50px;
+}
+
+#dot{
+    margin-bottom: 5px;
+    margin-left: 20px;
+}
+
+#bottom{
+    color: #909090;
+    display: inline;
+    margin-left: 40px;
+    font-family: Recursive;
+    font-size: 27px;
+    font-style: italic;
+    font-weight: 400;
+    line-height: normal;
+}
+
+#below{
+    color: #FFF;
+    font-family: "Source Sans Pro";
+    font-size: 30px;
+    font-style: normal;
+    font-weight: 600;
+    line-height: normal;
+}
+
+#blue{
+    margin-left: 10px;
+    margin-top: 30px;
+    border-radius: 5px;
+    background: #4699E0;
+    width: auto;
+    height: 30px;
+    flex-shrink: 0;
+    padding-right:10px;  
+    padding-left: 10px;  
+}
